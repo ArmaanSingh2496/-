@@ -413,3 +413,16 @@ ul{
 	color: #24262b;
 	background-color: #ffffff;
 }
+
+
+#copy-right{
+    background-color: #162e44;
+    height: 25px;
+    line-height: 25px;
+    width: 100%;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+}
+
+
