@@ -415,6 +415,12 @@ ul{
 }
 
 
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
 #copy-right{
     background-color: #162e44;
     height: 25px;
@@ -424,5 +430,4 @@ ul{
     font-size: 13px;
     text-align: center;
 }
-
 
